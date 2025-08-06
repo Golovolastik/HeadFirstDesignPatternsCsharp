@@ -1,1 +1,1 @@
-# HeadFirstDesignPatternsC-
+# HeadFirstDesignPatternsCsharp
